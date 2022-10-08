@@ -1,0 +1,161 @@
+﻿Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+Excepción durante la desinstalación del instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Desinstalando ensamblado 'C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sec200903_0101\Desktop\SerivicioProgramable\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog Service1.
+Advertencia: el origen Service1 no está registrado en el equipo local.
+Se está quitando el servicio Service1 del sistema...
+Excepción durante la desinstalación del instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
